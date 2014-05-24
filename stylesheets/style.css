@@ -7,6 +7,12 @@
   margin-top: 50px;
 }
 
+.nav-pills {
+    margin: 0 auto;
+    padding: 0;
+    width: 400px;
+}
+
 .navbar .nav {
   float:right;
 }
