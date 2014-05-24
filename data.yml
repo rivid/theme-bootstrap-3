@@ -1,0 +1,14 @@
+title : Jacksong
+tagline: ruby pagespeed
+author :
+  name : Jacksong
+  email : sjtusxmh@gmail.com
+  github : rivid
+  twitter : rivid
+
+navigation :
+  - archive
+  - tags
+  - categories
+  - pages
+  - about
